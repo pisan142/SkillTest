@@ -42,3 +42,5 @@ Complete the following leetcode exercises
 
 20. https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/
 
+If you have successfully completed all the above LeetCode exercises,
+you have earned 20 XP. You are now Level-3 Java Master
